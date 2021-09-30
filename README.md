@@ -50,7 +50,7 @@ java
 #### Expected behavior
 <!-- A clear and concise description of what you expected to happen in
 contrast with what actually happened. -->
-this question took my half and hour but the logic that i try to push in this code is having some plagiarism just because i take help of resources to complete this problem :)
+this question took my half an hour but the logic that i try to push in this code is having some plagiarism just because i take help of resources to complete this problem :)
 
 
 
